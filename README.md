@@ -1,4 +1,4 @@
-# API RESTful :tw-1f4da:
+# API RESTful:tw-1f4da:
 
 > CONCEITOS DE UMA API
 	API - Interface de Programação de Aplicações
